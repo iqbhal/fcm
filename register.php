@@ -1,4 +1,4 @@
-<?php 
+<!-- <?php 
 print_r("expression");
 if (isset($_POST["Token"])) {
  	$token = $_POST["Token"];
@@ -12,4 +12,4 @@ if (isset($_POST["Token"])) {
  	// }
  	mysqli_query($conn,$query);
  	mysqli_close($conn);
- } ?> 
+ } ?>  -->
